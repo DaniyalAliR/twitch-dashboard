@@ -13,3 +13,6 @@ Introducing a dynamic Twitch dashboard that provides a comprehensive overview of
 **Profile Picture Integration**: The streamer’s profile picture is fetched using the Twitch API and displayed at the bottom right, adding a personalized touch to the dashboard.
 
 **Collapsible Slicer Panel**: On the right side, a slicer panel is included which can be collapsed or expanded as needed, allowing for easy customization and filtering of the displayed data.
+
+![Screenshot 2024-07-14 183958](https://github.com/user-attachments/assets/1ef85e5f-1695-4739-81a6-6cd7870f5503)
+
