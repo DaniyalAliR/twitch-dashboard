@@ -1,4 +1,6 @@
 # Twitch Dashboard
+![Screenshot 2024-07-14 155601](https://github.com/user-attachments/assets/8e30d77a-2f32-4bd4-bba3-10d32d0726c4)
+
 
 Introducing a dynamic Twitch dashboard that provides a comprehensive overview of streamer statistics and performance metrics, including profile details, top games, and activity insights. This user-friendly interface features collapsible panels and Twitch API integration for personalized profile displays.
 
